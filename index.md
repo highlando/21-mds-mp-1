@@ -19,7 +19,7 @@
 
 # Vorlesungen, &uuml;bungen und Inhalte
 
-## 00 - Einf&uuml;hrungswoche (11. Oktober ++)
+## 00 - Einf&uuml;hrungswoche (11. Okt)
 
 **Vorlesung**
 
@@ -47,7 +47,7 @@
  * wie geht man ran
 
 
-## 01 - Mengenlehre und Ausssagenlogik (18. Oktober ++)
+## 01 - Mengenlehre und Ausssagenlogik (18. Okt)
 
 **Vorlesung**
 
@@ -60,7 +60,7 @@
  * Einf&uuml;hrung -- Abi Stoff
  * Kurvendiskussion und Algebraische Geometrie
  
-## 02 -  (25. Oktober ++)
+## 02 -  (25. Okt)
 
 **Vorlesung**
 
@@ -68,9 +68,7 @@
  Zahlenfolgen und Reihen: Konvergenzkriterien und Rechenregeln,
 absolute Konvergenz, Potenzreihen, unendliche Produkte
 
-### &Uuml;bung
-
-## 03 -  (01. November ++)
+## 03 -  (01. Nov)
 
 **Vorlesung**
 
@@ -79,9 +77,7 @@ Exponenten, Exponentialfunktion, Hyperbelfunktionen,
 trigonometrische Funktionen, Monotonie und Umkehrfunktion,
 Logarithmus
 
-### &Uuml;bung
-
-## 04 -  (08. November ++)
+## 04 -  (08. Nov)
 
 **Vorlesung**
 
@@ -90,7 +86,7 @@ Minimum und Maximum auf kompakten Mengen, stetige Bilder
 von Intervallen und Umkehrbarkeit, gleichmäßige Stetigkeit,
 gleichmäßige Konvergenz
 
-## 05 -  (15. November ++)
+## 05 -  (15. Nov)
 
 **Vorlesung**
 
@@ -102,45 +98,42 @@ gliedweise Differentiation, Hauptsatz der Differential- und
 Integralrechnung, Mittelwertsatz der Integralrechnung
 
 
-## 06 -  (22. November ++)
+## 06 -  (22. Nov)
 
 **Vorlesung**
 
-## 07 -  (29. November ++)
+## 07 -  (29. Nov)
 
 **Vorlesung**
 
-## 08 -  (06. Dezember ++)
+## 08 -  (06. Dez)
 
 **Vorlesung**
 
-## 09 -  (13. Dezember ++)
+## 09 -  (13. Dez)
 
 **Vorlesung**
 
-## 10 -  (20. Dezember ++)
+## 10 -  (20. Dez)
 
 **Vorlesung**
 
-## 11 -  (10. Januar ++)
+## 11 -  (10. Jan)
 
 **Vorlesung**
 
-## 12 -  (17. Januar ++)
+## 12 -  (17. Jan)
 
 **Vorlesung**
 
-## 13 -  (24. Januar ++)
+## 13 -  (24. Jan)
 
 **Vorlesung**
-### &Uuml;bung
 
-## 14 -  (31. Januar ++)
-
-**Vorlesung**
-### &Uuml;bung
-
-## 15 -  (07. Februar ++)
+## 14 -  (31. Jan)
 
 **Vorlesung**
-### &Uuml;bung
+
+## 15 -  (07. Feb)
+
+**Vorlesung**
