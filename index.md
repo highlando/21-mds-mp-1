@@ -1,21 +1,21 @@
 # Vorlesungsplanung 
 
-01. Mengenlehre, Logik, Aussagen und Beweise (W1)
-02. Zahlensysteme (W2)
-03. Gruppen und K&ouml;rper (W3)
-04. Vektorr&auml;ume (W4)
-05. Abbildungen (insbesondere lineare) 
-06. Matrizen und lineare Gleichungssysteme (W5)
-07. Diagonalisierung 
-08. Zerlegung (W6)
-09. Vollständigkeit, untere/obere Grenzen, Cauchy-Folgen und Konvergenz, Dichtheit von Q in R, abzählbare und überabzählbare Mengen (W7)
-10. Metriken und Konvergenz (W8)
-11. Folgen und Reihen
-12. Reihen (W9)
-13. Punktmengen
-14. Elementare Funktionen (W10)
-15. Stetigkeit reellwertiger Funktionen (W11)
-16. Differentiation und Integration (W13)
+ * Mengenlehre, Logik, Aussagen und Beweise (W1)
+ * Zahlensysteme (W2)
+ * Gruppen und K&ouml;rper (W3)
+ * Vektorr&auml;ume (W4)
+ * Abbildungen (insbesondere lineare) 
+ * Matrizen und lineare Gleichungssysteme (W5)
+ * Diagonalisierung 
+ * Zerlegung (W6)
+ * Vollständigkeit, untere/obere Grenzen, Cauchy-Folgen und Konvergenz, Dichtheit von Q in R, abzählbare und überabzählbare Mengen (W7)
+ * Metriken und Konvergenz (W8)
+ * Folgen und Reihen
+ * Reihen (W9)
+ * Punktmengen
+ * Elementare Funktionen (W10)
+ * Stetigkeit reellwertiger Funktionen (W11)
+ * Differentiation und Integration (W13)
 
 # Vorlesungen, &uuml;bungen und Inhalte
 
