@@ -25,26 +25,35 @@
 
 1. Data Science und Mathematik
 
- * Modellierung von Covid
- * Netflix (Pr&auml;diktion/Ethik) 
+ * Linear Regression and Covid Data
+   * Daten nutzen um Modelle anzupassen
+   * Daten nutzen um Mechanismen zu verstehen
+
+ * Effiziente Speicherung von Daten
+   * Sinustransformation und Approximation
+   * z.B. jpg oder mp3
 
 2. Einf&uuml;hrung (Mathematik)
 
  * Wie funktioniert die Vorlesung
- * Auch Inhalte
+ * Wie funktioniert Mathematik
+   * vollst&auml;ndige Induktion
 
 
 **&Uuml;bung**
 
 1. Modellierung
 
- * Covid mit SIR
- * Prediction 
+ * Lineare Regression mit 5 Datenpunkten
+ * Logarithmieren
+ * Aufstellen des System f&uuml;r das fitten einer Exponentialfunktion
+ * Berechnen der Sinuskoeffizienten
 
 2. Standard Uebung 
 
  * richtige Uebungsaufgaben
  * wie geht man ran
+ * vollst&auml;ndige InduktioVn
 
 
 ## 01 - Mengenlehre und Ausssagenlogik (18. Okt)
