@@ -74,12 +74,16 @@
  * Abbildungen
  * Aussagen, Aussageformen
 
+- [x] Skript komplett
+- [ ] Skript sch&ouml;n
+
 **&Uuml;bung**
 
  * Einf&uuml;hrung -- Abi Stoff
  * Kurvendiskussion und Algebraische Geometrie
+ * `00-OWO/00-03-einfuehrung.pdf`
  
-## 02 -  (25. Okt)
+## 02 -  (25. Okt) Zahlen Systeme / Algebraische Strukturen
 
 **Vorlesung**
 
@@ -87,7 +91,13 @@
    * N, Z, vollst&auml;ndige Induktion
  * Gruppen, Ringe und Koerper
 
-## 03 -  (01. Nov)
+**&Uuml;bung**
+ 
+  * Aussagen, Mengen Relationen
+  * `01-mengen-logik.pdf`
+    * TODO: Abgabe-Aufgaben ab&auml;ndern? Abgabe/Ausgabedaten?
+
+## 03 -  (01. Nov) Rationale Zahlen (nur eine Vorlesung!)
 
 **Vorlesung**
 
