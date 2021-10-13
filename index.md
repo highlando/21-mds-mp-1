@@ -1,21 +1,36 @@
 # Vorlesungsplanung 
 
  * Mengenlehre, Logik, Aussagen und Beweise (W1)
- * Zahlensysteme (W2)
- * Gruppen und K&ouml;rper (W3)
- * Vektorr&auml;ume (W4)
+ * Zahlensysteme (W2) 
+   * N und Z
+ * Gruppen und K&ouml;rper
+ * Q (W3)
+ * untere/obere Grenzen,
+ * R (W4) 
+ * Dichtheit von Q in R, abzählbare und überabzählbare Mengen (W5)
+ * Vektorr&auml;ume (W6)
  * Abbildungen (insbesondere lineare) 
- * Matrizen und lineare Gleichungssysteme (W5)
+ * Matrizen und lineare Gleichungssysteme (W7)
  * Diagonalisierung 
- * Zerlegung (W6)
- * Vollständigkeit, untere/obere Grenzen, Cauchy-Folgen und Konvergenz, Dichtheit von Q in R, abzählbare und überabzählbare Mengen (W7)
- * Metriken und Konvergenz (W8)
+ * Zerlegung (W8)
+ * Metriken und Konvergenz (W9)
+ * Cauchy-Folgen und Konvergenz, 
+ * Vollständigkeit, 
  * Folgen und Reihen
- * Reihen (W9)
+ * Reihen (W10)
  * Punktmengen
- * Elementare Funktionen (W10)
- * Stetigkeit reellwertiger Funktionen (W11)
+ * Elementare Funktionen (W11)
+ * Stetigkeit reellwertiger Funktionen (W12)
  * Differentiation und Integration (W13)
+
+# &auml;nderungen zum Burger Skript
+
+ * Zahlensysteme N, Z
+ * Gruppen, Ringe und Koerper
+ * Rationale Zahlen
+ * Ordnungsrelationen, Supremum, Infimum
+ * Reelle Zahlen (Kroencke Skript Sec. 9)
+ * (erstmal) keine Konstruktion der reellen Zahlen
 
 # Vorlesungen, &uuml;bungen und Inhalte
 
@@ -28,10 +43,6 @@
  * Linear Regression and Covid Data
    * Daten nutzen um Modelle anzupassen
    * Daten nutzen um Mechanismen zu verstehen
-
- * Effiziente Speicherung von Daten
-   * Sinustransformation und Approximation
-   * z.B. jpg oder mp3
 
 2. Einf&uuml;hrung (Mathematik)
 
@@ -47,7 +58,6 @@
  * Lineare Regression mit 5 Datenpunkten
  * Logarithmieren
  * Aufstellen des System f&uuml;r das fitten einer Exponentialfunktion
- * Berechnen der Sinuskoeffizienten
 
 2. Standard Uebung 
 
@@ -73,39 +83,31 @@
 
 **Vorlesung**
 
- Konvergenz, Cauchy-Folgen, Vollständigkeit
- Zahlenfolgen und Reihen: Konvergenzkriterien und Rechenregeln,
-absolute Konvergenz, Potenzreihen, unendliche Produkte
+ * Zahlensysteme
+   * N, Z, vollst&auml;ndige Induktion
+ * Gruppen, Ringe und Koerper
 
 ## 03 -  (01. Nov)
 
 **Vorlesung**
 
- Elementare Funktionen, rationale Funktionen, Potenzen mit reellen
-Exponenten, Exponentialfunktion, Hyperbelfunktionen,
-trigonometrische Funktionen, Monotonie und Umkehrfunktion,
-Logarithmus
+   * Rationale Zahlen
+
 
 ## 04 -  (08. Nov)
 
 **Vorlesung**
 
- Stetige reellwertige Funktionen: Zwischenwertsatz, Existenz von
-Minimum und Maximum auf kompakten Mengen, stetige Bilder
-von Intervallen und Umkehrbarkeit, gleichmäßige Stetigkeit,
-gleichmäßige Konvergenz
+   * Ordnungsrelationen, Infimum, Supremum
+   * Reelle Zahlen
+
 
 ## 05 -  (15. Nov)
 
 **Vorlesung**
 
- Differential- und Integralrechnung in einer reellen Veränderlichen:
-Rechenregeln für Differentiation, Mittelwertsatz der
-Differentialrechnung, Taylorformel, Extremwerte und
-Kurvendiskussion, Definition des Integrals und Rechenregeln,
-gliedweise Differentiation, Hauptsatz der Differential- und
-Integralrechnung, Mittelwertsatz der Integralrechnung
-
+ * Dichtheit von Q in R
+ * abzählbare und überabzählbare Mengen
 
 ## 06 -  (22. Nov)
 
