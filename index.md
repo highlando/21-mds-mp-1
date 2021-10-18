@@ -76,7 +76,7 @@
  * Abbildungen
  * Aussagen, Aussageformen
 
-- [x] Skript komplett
+- [x] Skript komplett (version 3)
 - [x] Skript sch&ouml;n
 
 **&Uuml;bung**
@@ -93,11 +93,13 @@
    * N, Z, vollst&auml;ndige Induktion
  * Gruppen, Ringe und Koerper
 
+- [x] Skript komplett (version 4)
+- [ ] Skript sch&ouml;n
+
 **&Uuml;bung**
  
   * Aussagen, Mengen Relationen
   * `01-mengen-logik.pdf`
-    * TODO: Abgabe-Aufgaben ab&auml;ndern? Abgabe/Ausgabedaten?
 
 ## 03 -  (01. Nov) Rationale Zahlen (nur eine Vorlesung!)
 
