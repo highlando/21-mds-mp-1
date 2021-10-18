@@ -113,6 +113,9 @@
 
   * Relationen, Funktionen, Gruppen, Vollst&auml;ndige Induktion
   * `02-xxx.pdf`: P22--PXX, A9--AXX
+  - [ ] fertig
+  - [ ] fertig
+  - [ ] auf StudOn -- 25.10. -- 12:00
 
 
 ## 04 -  (08. Nov)
