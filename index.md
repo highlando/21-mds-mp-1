@@ -98,14 +98,21 @@
 
 **&Uuml;bung**
  
-  * Aussagen, Mengen Relationen
-  * `01-mengen-logik.pdf`
+  * Aussagen, Mengen, Relationen
+  * `01-mengen-logik.pdf`: P15--P21, A2--A8
+  - [x] fertig
+  - [ ] auf StudOn -- 25.10. -- 12:00
 
 ## 03 -  (01. Nov) Rationale Zahlen (nur eine Vorlesung!)
 
 **Vorlesung**
 
    * Rationale Zahlen
+
+**&Uuml;bung**
+
+  * Relationen, Funktionen, Gruppen, Vollst&auml;ndige Induktion
+  * `02-xxx.pdf`: P22--PXX, A9--AXX
 
 
 ## 04 -  (08. Nov)
