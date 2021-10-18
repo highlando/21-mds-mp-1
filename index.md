@@ -58,12 +58,14 @@
  * Lineare Regression mit 5 Datenpunkten
  * Logarithmieren
  * Aufstellen des System f&uuml;r das fitten einer Exponentialfunktion
+ * `00-OWO/00-einfuehrung.pdf`
 
 2. Standard Uebung 
 
  * richtige Uebungsaufgaben
  * wie geht man ran
  * vollst&auml;ndige InduktioVn
+ * `00-OWO/00-01-einfuehrung.pdf`
 
 
 ## 01 - Mengenlehre und Ausssagenlogik (18. Okt)
@@ -75,7 +77,7 @@
  * Aussagen, Aussageformen
 
 - [x] Skript komplett
-- [ ] Skript sch&ouml;n
+- [x] Skript sch&ouml;n
 
 **&Uuml;bung**
 
