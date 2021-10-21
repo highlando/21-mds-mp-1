@@ -3,24 +3,24 @@
  * Mengenlehre, Logik, Aussagen und Beweise (W1)
  * Zahlensysteme (W2) 
    * N und Z
- * Gruppen und K&ouml;rper
- * Q (W3)
+ * Gruppen und K&ouml;rper (W3)
+ * Q (W4)
  * untere/obere Grenzen,
- * R (W4) 
+ * R (W5) 
  * Dichtheit von Q in R, abzählbare und überabzählbare Mengen (W5)
- * Vektorr&auml;ume (W6)
+ * Vektorr&auml;ume (W7)
  * Abbildungen (insbesondere lineare) 
- * Matrizen und lineare Gleichungssysteme (W7)
+ * Matrizen und lineare Gleichungssysteme (W8)
  * Diagonalisierung 
- * Zerlegung (W8)
- * Metriken und Konvergenz (W9)
+ * Zerlegung (W9)
+ * Metriken und Konvergenz (W10)
  * Cauchy-Folgen und Konvergenz, 
  * Vollständigkeit, 
  * Folgen und Reihen
- * Reihen (W10)
+ * Reihen (W11)
  * Punktmengen
- * Elementare Funktionen (W11)
- * Stetigkeit reellwertiger Funktionen (W12)
+ * Elementare Funktionen (W12)
+ * Stetigkeit reellwertiger Funktionen (W13)
  * Differentiation und Integration (W13)
 
 # &auml;nderungen zum Burger Skript
@@ -70,44 +70,40 @@
 
 ## 01 - Mengenlehre und Ausssagenlogik (18. Okt)
 
-**Vorlesung**
-
- * Mengen, Mengenoperationen, Relationen
- * Abbildungen
- * Aussagen, Aussageformen
-
-- [x] Skript komplett (version 3)
-- [x] Skript sch&ouml;n
-
 **&Uuml;bung**
 
  * Einf&uuml;hrung -- Abi Stoff
  * Kurvendiskussion und Algebraische Geometrie
  * `00-OWO/00-03-einfuehrung.pdf`
  
-## 02 -  (25. Okt) Zahlen Systeme / Algebraische Strukturen
 
 **Vorlesung**
 
- * Zahlensysteme
-   * N, Z, vollst&auml;ndige Induktion
- * Gruppen, Ringe und Koerper
+ * [x] Mengen, Mengenoperationen
+ * [x] Relationen
 
-- [x] Skript komplett (version 4)
-- [ ] Skript sch&ouml;n
+## 02 -  (25. Okt) Zahlen Systeme / Algebraische Strukturen
 
 **&Uuml;bung**
  
-  * Aussagen, Mengen, Relationen
-  * `01-mengen-logik.pdf`: P15--P21, A2--A8
+  * Mengen, Relationen
+  * `01-mengen-relationen.pdf`: P15--P21, A2--A7
   - [x] fertig
-  - [ ] auf StudOn -- 25.10. -- 12:00
-
-## 03 -  (01. Nov) Rationale Zahlen (nur eine Vorlesung!)
+  - [ ] auf StudOn -- 22.10. -- 10:00
 
 **Vorlesung**
 
-   * Rationale Zahlen
+ * [ ] Abbildungen
+ * [ ] Aussagen, Aussageformen
+ * [ ] Zahlensysteme
+ * [ ] N, Z, vollst&auml;ndige Induktion
+ * [ ] Gruppen, Ringe und Koerper
+
+ - [x] Skript komplett (version 4)
+ - [ ] Skript sch&ouml;n
+ - [ ] Skript auf StudOn
+
+## 03 -  (01. Nov) Rationale Zahlen (nur eine Vorlesung!)
 
 **&Uuml;bung**
 
@@ -116,6 +112,10 @@
   - [ ] fertig
   - [ ] fertig
   - [ ] auf StudOn -- 25.10. -- 12:00
+
+**Vorlesung**
+
+   * Rationale Zahlen
 
 
 ## 04 -  (08. Nov)
