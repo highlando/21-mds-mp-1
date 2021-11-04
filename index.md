@@ -93,11 +93,11 @@
 
 **Vorlesung**
 
- * [ ] Abbildungen
- * [ ] Aussagen, Aussageformen
- * [ ] Zahlensysteme
- * [ ] N, Z, vollst&auml;ndige Induktion
- * [ ] Gruppen, Ringe und Koerper
+ * [x] Abbildungen
+ * [x] Aussagen, Aussageformen
+ * [x] Zahlensysteme
+ * [x] N, Z, vollst&auml;ndige Induktion
+ * [ ] Gruppen
 
  - [x] Skript komplett (version 4)
  - [ ] Skript sch&ouml;n
@@ -108,17 +108,22 @@
 **&Uuml;bung**
 
   * Relationen, Funktionen, Gruppen, Vollst&auml;ndige Induktion
-  * `02-xxx.pdf`: P22--PXX, A9--AXX
-  - [ ] fertig
-  - [ ] fertig
-  - [ ] auf StudOn -- 25.10. -- 12:00
+  * `02-xxx.pdf`: P22--P26, A8--A14
+  - [x] auf StudOn -- 29.10. -- 12:00
 
 **Vorlesung**
 
-   * Rationale Zahlen
+   * [ ] Gruppen, Ringe und Koerper
+   * [ ] Rationale Zahlen
 
 
 ## 04 -  (08. Nov)
+
+**&Uuml;bung**
+
+  * Urbilder, Induktion, Gruppen, Ringe
+  * `03-xxx.pdf`: P26--PXX, A14--AXX
+  - [] auf StudOn -- 05.11. -- 12:00
 
 **Vorlesung**
 
