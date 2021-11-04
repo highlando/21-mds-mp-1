@@ -23,7 +23,7 @@
  * Stetigkeit reellwertiger Funktionen (W13)
  * Differentiation und Integration (W13)
 
-# &auml;nderungen zum Burger Skript
+# &Auml;nderungen zum Burger Skript
 
  * Zahlensysteme N, Z
  * Gruppen, Ringe und Koerper
@@ -89,7 +89,6 @@
   * Mengen, Relationen
   * `01-mengen-relationen.pdf`: P15--P21, A2--A7
   - [x] fertig
-  - [ ] auf StudOn -- 22.10. -- 10:00
 
 **Vorlesung**
 
@@ -100,8 +99,6 @@
  * [ ] Gruppen
 
  - [x] Skript komplett (version 4)
- - [ ] Skript sch&ouml;n
- - [ ] Skript auf StudOn
 
 ## 03 -  (01. Nov) Rationale Zahlen (nur eine Vorlesung!)
 
@@ -113,11 +110,12 @@
 
 **Vorlesung**
 
-   * [ ] Gruppen, Ringe und Koerper
-   * [ ] Rationale Zahlen
+   * [x] Gruppen, Ringe und Koerper
+   * [x] Rationale Zahlen
+   * [x] Skript komplett (Version 6)
 
 
-## 04 -  (08. Nov)
+## 04 -  (08. Nov) Ordnungsrelationen, Supremum, Infimum und Relle Zahlen
 
 **&Uuml;bung**
 
@@ -127,8 +125,8 @@
 
 **Vorlesung**
 
-   * Ordnungsrelationen, Infimum, Supremum
-   * Reelle Zahlen
+   * [ ] Ordnungsrelationen, Infimum, Supremum
+   * [ ] Reelle Zahlen
 
 
 ## 05 -  (15. Nov)
