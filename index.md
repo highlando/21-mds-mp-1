@@ -120,21 +120,30 @@
 **&Uuml;bung**
 
   * Urbilder, Induktion, Gruppen, Ringe
-  * `03-xxx.pdf`: P26--PXX, A14--AXX
-  - [] auf StudOn -- 05.11. -- 12:00
+  * `03-xxx.pdf`: P26--P29, A15--A19
+  - [x] auf StudOn -- 05.11. -- 12:00
 
 **Vorlesung**
 
-   * [ ] Ordnungsrelationen, Infimum, Supremum
-   * [ ] Reelle Zahlen
+  * [x] Ordnungsrelationen, Infimum, Supremum
+  * [x] Reelle Zahlen
+  * [x] Dichtheit von Q in R
 
 
-## 05 -  (15. Nov)
+## 05 -  (15. Nov) Komplexe Zahlen und Vektorr&auml;ume
+
+**&Uuml;bung**
+
+  * K&ouml;rper, Ungleichungen, Schranken
+  * `04-xxx.pdf`: P30--PXX, A20--AXX
+  - [] auf StudOn -- 12.11. -- 12:00
+
 
 **Vorlesung**
 
- * Dichtheit von Q in R
- * abzählbare und überabzählbare Mengen
+  * [ ] R &uuml;berabz&auml;hlbar
+  * [ ] Komplexe Zahlen
+  * [ ] Vektorr&auml;ume
 
 ## 06 -  (22. Nov)
 
