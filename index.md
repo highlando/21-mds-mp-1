@@ -120,7 +120,7 @@
 **&Uuml;bung**
 
   * Urbilder, Induktion, Gruppen, Ringe
-  * `03-xxx.pdf`: P26--P29, A15--A19
+  * `03-xxx.pdf`: P26--P29, A15--A20
   - [x] auf StudOn -- 05.11. -- 12:00
 
 **Vorlesung**
@@ -135,17 +135,25 @@
 **&Uuml;bung**
 
   * K&ouml;rper, Ungleichungen, Schranken
-  * `04-xxx.pdf`: P30--PXX, A20--AXX
-  - [] auf StudOn -- 12.11. -- 12:00
+  * `04-koerper-beschraenktheit.pdf`: P29--P32, A21--A25
+  - [x] auf StudOn -- 12.11. -- 12:00
 
 
 **Vorlesung**
 
-  * [ ] R &uuml;berabz&auml;hlbar
-  * [ ] Komplexe Zahlen
+  * [x] R &uuml;berabz&auml;hlbar
+  * [x] Komplexe Zahlen
   * [ ] Vektorr&auml;ume
+  * [ ] Lineare Abbildungen
+  * [ ] Lineare Gleichungssysteme
 
 ## 06 -  (22. Nov)
+
+**&Uuml;bung**
+
+  * K&ouml;rper, Ungleichungen, Schranken
+  * `05-reelle-komplexe-zahlen.pdf`: P33--PXX, A26--AXX
+  - [x] auf StudOn -- 19.11. -- 12:00
 
 **Vorlesung**
 
