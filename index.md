@@ -143,23 +143,31 @@
 
   * [x] R &uuml;berabz&auml;hlbar
   * [x] Komplexe Zahlen
-  * [ ] Vektorr&auml;ume
-  * [ ] Lineare Abbildungen
-  * [ ] Lineare Gleichungssysteme
 
 ## 06 -  (22. Nov)
 
 **&Uuml;bung**
 
-  * K&ouml;rper, Ungleichungen, Schranken
-  * `05-reelle-komplexe-zahlen.pdf`: P33--PXX, A26--AXX
+  * K&ouml;rper, Ungleichungen, Schranken, Vektorraum
+  * `05-reelle-komplexe-zahlen.pdf`: P34--P40, A25--A29
   - [x] auf StudOn -- 19.11. -- 12:00
 
 **Vorlesung**
 
+  * [x] Vektorr&auml;ume
+  * [ ] Lineare Abbildungen
+ 
 ## 07 -  (29. Nov)
 
+**&Uuml;bung**
+
+  * lineare Abbildungen, Matrizen
+  * `06-reelle-komplexe-zahlen.pdf`: P41--PXX, A30--AXX
+
 **Vorlesung**
+
+  * [ ] Lineare Gleichungssysteme
+  * [ ] Skalarprodukt und Transponierte
 
 ## 08 -  (06. Dez)
 
