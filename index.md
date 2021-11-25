@@ -144,7 +144,7 @@
   * [x] R &uuml;berabz&auml;hlbar
   * [x] Komplexe Zahlen
 
-## 06 -  (22. Nov)
+## 06 -  (22. Nov) Vektorraum, lineare Abbildungen
 
 **&Uuml;bung**
 
