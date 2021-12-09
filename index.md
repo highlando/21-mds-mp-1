@@ -155,23 +155,31 @@
 **Vorlesung**
 
   * [x] Vektorr&auml;ume
-  * [ ] Lineare Abbildungen
+  * [x] Lineare Abbildungen
  
 ## 07 -  (29. Nov)
 
 **&Uuml;bung**
 
   * lineare Abbildungen, Matrizen
-  * `06-reelle-komplexe-zahlen.pdf`: P41--PXX, A30--AXX
+  * `06-Lineare-abbildungen-matrizen.pdf`: P34--PXX, A30--AXX
 
 **Vorlesung**
 
-  * [ ] Lineare Gleichungssysteme
-  * [ ] Skalarprodukt und Transponierte
+  * [x] Matrizen
+  * [x] Skalarprodukt und Transponierte
 
 ## 08 -  (06. Dez)
 
+**&Uuml;bung**
+
+ * Matrizen, Nullraum, Gram-Schmidt
+ * `07-matrizen-nullraum.pdf`: P41--P46, A32--A36
+
 **Vorlesung**
+
+  * [x] Nullraum, Bildraum, Co-Kern, Co-Range
+  * [ ] Lineare Gleichungssysteme
 
 ## 09 -  (13. Dez)
 
