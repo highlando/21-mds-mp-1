@@ -183,6 +183,23 @@
 
 ## 09 -  (13. Dez)
 
+**&Uuml;bung**
+
+ * Gross&uuml;bung: Determinanten -- rekursiv &uuml;ber Laplace einf&uuml;hren!
+ * Check Blatt 8
+   - nicht die Ganzzahligkeit
+   * Nachweis:
+     - n=2, (3) -- egal &uuml;ber welche Zeile entwickelt wird
+     - per vollst&auml;ndiger Induktion (aus der rekursiven Definition) `det(AB) = det(A)det(B)`
+     - `det(0)=0` und `det(I)=1`
+     - `det(Dreiecksmatrix)=0`
+   * bestimmen Sie alle Matrizen P, die mittels $PA$ zwei Zeilen von $A$ vertauschen.
+     * berechnen sie die Determinante aller $P$
+     * (BONUS: Determinante von A durch Gauss Elimination)
+   * aus der co-range Eigenschaft -- nicht l&ouml;sbar fuer gegebenes `A` und `y`
+   * alle Loesungen ueber den Kern
+ * `08-determinanten-gauss.pdf`: P47--PXX, A37--AXX
+
 **Vorlesung**
 
 ## 10 -  (20. Dez)
