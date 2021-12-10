@@ -157,7 +157,7 @@
   * [x] Vektorr&auml;ume
   * [x] Lineare Abbildungen
  
-## 07 -  (29. Nov)
+## 07 -  (29. Nov) Matrizen und Skalarprodukte
 
 **&Uuml;bung**
 
@@ -169,7 +169,7 @@
   * [x] Matrizen
   * [x] Skalarprodukt und Transponierte
 
-## 08 -  (06. Dez)
+## 08 -  (06. Dez) Nullraum, Bildraum, Lineare Gleichungssysteme
 
 **&Uuml;bung**
 
@@ -179,23 +179,19 @@
 **Vorlesung**
 
   * [x] Nullraum, Bildraum, Co-Kern, Co-Range
-  * [ ] Lineare Gleichungssysteme
+  * [x] Lineare Gleichungssysteme
+  * [x] Invertierbare Matrizen
 
-## 09 -  (13. Dez)
+## 09 -  (13. Dez) Gauss Verfahren, Determinanten
 
 **&Uuml;bung**
 
- * Gross&uuml;bung: Determinanten -- rekursiv &uuml;ber Laplace einf&uuml;hren!
- * Check Blatt 8
-   - nicht die Ganzzahligkeit
-   * Nachweis:
+ * Blatt 8: Determinanten -- rekursiv &uuml;ber Laplace einf&uuml;hren!
+   * Determinanten:
      - n=2, (3) -- egal &uuml;ber welche Zeile entwickelt wird
-     - per vollst&auml;ndiger Induktion (aus der rekursiven Definition) `det(AB) = det(A)det(B)`
      - `det(0)=0` und `det(I)=1`
-     - `det(Dreiecksmatrix)=0`
-   * bestimmen Sie alle Matrizen P, die mittels $PA$ zwei Zeilen von $A$ vertauschen.
-     * berechnen sie die Determinante aller $P$
-     * (BONUS: Determinante von A durch Gauss Elimination)
+     - `det(Dreiecksmatrix)`
+     - nur fuer Dreiecksmatrix, per vollst&auml;ndiger Induktion (aus der rekursiven Definition) `det(AB) = det(A)det(B)`
    * aus der co-range Eigenschaft -- nicht l&ouml;sbar fuer gegebenes `A` und `y`
    * alle Loesungen ueber den Kern
  * `08-determinanten-gauss.pdf`: P47--PXX, A37--AXX
@@ -203,6 +199,12 @@
 **Vorlesung**
 
 ## 10 -  (20. Dez)
+
+**&Uuml;bung**
+
+   * bestimmen Sie alle Matrizen P, die mittels $PA$ zwei Zeilen von $A$ vertauschen.
+     * berechnen sie die Determinante aller $P$
+     * (BONUS: Determinante von A durch Gauss Elimination)
 
 **Vorlesung**
 
