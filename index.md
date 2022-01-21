@@ -216,14 +216,29 @@
 
 **Vorlesung**
 
+ * [x] Vollständigkeit von R
+ * [x] Teilfolgen
+ * [x] Bolzano-Weierstrass (leider ohne Beweis)
+
 ## 13 -  (24. Jan)
 
 **Vorlesung**
+
+ * [ ] Reihen
+ * [ ] Potenzreihen
+ * [ ] reellwertige Funktionen
+ * [ ] Grenzwerte von Funktionen
+ * [ ] Stetigkeit
 
 ## 14 -  (31. Jan)
 
 **Vorlesung**
 
+ * elementare Funktionen
+ * Differenzierbarkeit
+
 ## 15 -  (07. Feb)
 
 **Vorlesung**
+
+ * [ ] Integration
